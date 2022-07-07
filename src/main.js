@@ -10,13 +10,13 @@ import '@/assets/icon/iconfont.css'
 
 import App from './App.vue'
 import './registerServiceWorker'
-import router from './router'
+// import router from './router'
 
 
 const app = createApp(App)
 
 app.use(ElementPlus)
-app.use(router)
+    // app.use(router)
 
 
 app.mount('#app')

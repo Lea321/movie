@@ -1,0 +1,14 @@
+{
+    "data": [
+        { "name": "OK解析", "url": "https://okjx.cc/?url=" },
+        { "name": "OK解析2", "url": "https://m3u8.okjx.cc:3389/o1kjx.php?url=" },
+        { "name": "综合/B站", "url": "https://vip.parwix.com:4433/player/?url=" },
+        { "name": "纯净/B站", "url": "https://z1.m1907.cn/?jx=" },
+        { "name": "夜幕解析", "url": "https://www.yemu.xyz/?url=" },
+        { "name": "人人解析", "url": "https://jx.blbo.cc:4433/?url=" },
+        { "name": "老板解析", "url": "https://vip.laobandq.com/jiexi.php?url=" },
+        { "name": "盖世解析", "url": "https://www.gai4.com/?url=" },
+        { "name": "60解析", "url": "http://60jx.com/?url=" },
+        { "name": "Vip解析", "url": "https://vipjx.cc/?url=" }
+    ]
+}

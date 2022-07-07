@@ -23,14 +23,14 @@ export default {
   data() {
     return {
       imglist: [
-        { img: 'https://www.lea.ink/img/mlogo/bilibili.png', url: "https://www.bilibili.com/" },
-        { img: 'https://www.lea.ink/img/mlogo/qqlogo.png', url: "https://v.qq.com/" },
-        { img: 'https://www.lea.ink/img/mlogo/iqiyilogo.png', url: "https://www.iqiyi.com/" },
-        { img: 'https://www.lea.ink/img/mlogo/youkulogo.png', url: "https://www.youku.com/" },
-        { img: 'https://www.lea.ink/img/mlogo/hunantvlogo.png', url: "https://www.mgtv.com/" },
-        { img: 'https://www.lea.ink/img/mlogo/letvlogo.png', url: "https://www.le.com/" },
-        { img: 'https://www.lea.ink/img/mlogo/tudoulogo.png', url: "https://www.tudou.com/" },
-        { img: 'https://www.lea.ink/img/mlogo/baofeng.png', url: "http://www.baofeng.com/" },
+        { img: 'http://movie.leonus.cn/img/logos/bilibili.png', url: "https://www.bilibili.com/" },
+        { img: 'http://movie.leonus.cn/img/logos/qqlogo.png', url: "https://v.qq.com/" },
+        { img: 'http://movie.leonus.cn/img/logos/iqiyilogo.png', url: "https://www.iqiyi.com/" },
+        { img: 'http://movie.leonus.cn/img/logos/youkulogo.png', url: "https://www.youku.com/" },
+        { img: 'http://movie.leonus.cn/img/logos/hunantvlogo.png', url: "https://www.mgtv.com/" },
+        { img: 'http://movie.leonus.cn/img/logos/letvlogo.png', url: "https://www.le.com/" },
+        { img: 'http://movie.leonus.cn/img/logos/tudoulogo.png', url: "https://www.tudou.com/" },
+        { img: 'http://movie.leonus.cn/img/logos/baofeng.png', url: "http://www.baofeng.com/" },
       ]
     }
   }
